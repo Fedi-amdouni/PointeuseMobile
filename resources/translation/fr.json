@@ -1,0 +1,12 @@
+{
+  "country_title": "Choisir un code",
+  "search": "Recherche...",
+  "strong_security": "Sécurité forte",
+  "medium_security": "Sécurité moyenne",
+  "low_security": "Sécurité faible",
+  "networkerror": "Probléme de connexion",
+  "servererror": "Une erreur a été survenue",
+  "selectdate": "'Sélectionner une date'",
+  "confirm": "Confirmer",
+  "cancel": "Annuler"
+}
